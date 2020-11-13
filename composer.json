@@ -1,5 +1,5 @@
 {
-    "name": "spinzar/money",
+    "name": "spinzar/lara-money",
     "description": "Laravel Money",
     "keywords": [
         "laravel",
@@ -46,7 +46,7 @@
             "Spinzar\\Money\\Tests\\": "tests/"
         },
         "files": [
-            "tests/Database/Migrations/2020_04_30_000000_create_users_table.php"
+            "tests/Database/Migrations/2020_11_13_000000_create_users_table.php"
         ]
     },
     "minimum-stability": "dev",

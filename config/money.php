@@ -6,7 +6,7 @@ return [
      | Laravel money
      |--------------------------------------------------------------------------
      */
-    'locale' => config('app.locale', 'en_US'),
+    'locale' => config('app.locale', 'en_GB'),
     'defaultCurrency' => config('app.currency', 'USD'),
     'currencies' => [
         'iso' => 'all',

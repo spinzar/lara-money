@@ -25,7 +25,7 @@ class MoneyServiceProvider extends ServiceProvider
     public function boot()
     {
         if ($this->app->runningInConsole()) {
-            $this->publishes([__DIR__.'/../config/config.php' => config_path('money.php')], 'config');
+            $this->publishes([__DIR__ . '/config/config.php' => config_path('money.php')], 'config');
         }
 
         $this->callAfterResolving(BladeCompiler::class, function ($blade) {

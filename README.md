@@ -14,13 +14,13 @@
 Run the following command from you terminal:
 
 ```bash
-composer require spinzar/laravel-money
+composer require spinzar/lara-money
 ```
 
 or add this to require section in your composer.json file:
 
 ```bash
-"spinzar/laravel-money": "~6.0"
+"spinzar/laravel-money": "~1.0"
 ```
 
 then run ```composer update```
