@@ -1,10 +1,10 @@
 # Money
-[![Release](https://img.shields.io/packagist/v/spinzar/money?label=release)](https://github.com/spinzar/laravel-money/releases)
-![Downloads](https://img.shields.io/packagist/dt/spinzar/laravel-money)
-![Tests](https://img.shields.io/github/workflow/status/spinzar/laravel-money/Tests?label=tests)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spinzar/laravel-money/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spinzar/laravel-money/?branch=master)
-[![Code Intelligence Status](https://scrutinizer-ci.com/g/spinzar/laravel-money/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
-[![License](https://img.shields.io/github/license/spinzar/laravel-money)](LICENSE.md)
+[![Release](https://img.shields.io/packagist/v/spinzar/lara-money?label=release)](https://github.com/spinzar/lara-money/releases)
+![Downloads](https://img.shields.io/packagist/dt/spinzar/lara-money)
+![Tests](https://img.shields.io/github/workflow/status/spinzar/lara-money/Tests?label=tests)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spinzar/lara-money/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/spinzar/lara-money/?branch=main)
+[![Code Intelligence Status](https://scrutinizer-ci.com/g/spinzar/lara-money/badges/code-intelligence.svg?b=main)](https://scrutinizer-ci.com/code-intelligence)
+[![License](https://img.shields.io/github/license/spinzar/lara-money)](LICENSE.md)
 
 
 > **Note:** This project abstracts [MoneyPHP](http://moneyphp.org/)
